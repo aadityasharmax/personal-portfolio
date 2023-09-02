@@ -9,6 +9,8 @@ body{
 background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
 }
 
+
+
 h1{
     margin-top: 10vh;
     font-size: 30px;
@@ -27,6 +29,7 @@ div i {
     color: #d6249f;
   color:radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
 }
+
 
 div i:visited{
     color:blue;
